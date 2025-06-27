@@ -52,7 +52,7 @@ This project showcases:
 
 Below is a line chart showing vehicle sales trends from 2013 to 2022 across the UK, UAE, and Malaysia:
 
-![Vehicle Sales Trend](./vehicle_sales_trend.png)
+![Vehicle Sales Trend](./vehicles_sales_trend.png)
 ---
 
 ## 💡 Future Improvements
